@@ -2,6 +2,9 @@
 
 This repository provides access to datasets for the analysis and evaluation of DNA and RNA base modification detection using Oxford Nanopore Technologies' single-molecule direct RNA sequencing. 
 
+Course Webpage: https://physiology.med.cornell.edu/faculty/mason/lab/clinicalgenomics/index.html
+YouTube Channel: https://www.youtube.com/@makethebrainhappy-scientificex 
+
 ## 📁 Available Datasets
 
 ### Basecalled Reads – Chr22 Subset (Dorado v1.0.0, All 8 Modifications)
